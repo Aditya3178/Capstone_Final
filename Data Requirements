@@ -1,11 +1,10 @@
 The data required will obviously be the population sample in major areas of the two cities and their tastes and preferences 
 in respect to a few of the major cuisines in the world to determine which is the most profitable area and cuisine to start a restaurant in. 
-The sample data would look like this
+The sample data would be the types of cuisines and theeir ratings and their correlation with the demographic distribution and 
+density of population at major localities.
 
 London
 https://foursquare.com/explore?mode=url&near=London%2C%20Greater%20London%2C%20United%20Kingdom&nearGeoId=72057594040571679&q=Food
 
 New York
 https://foursquare.com/explore?mode=url&near=New%20York%2C%20NY%2C%20United%20States&nearGeoId=72057594043056517&q=Food
-
-It will be further broken down based on cuisine types for comparison. 
