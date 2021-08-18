@@ -1,3 +1,3 @@
-# Capstone_Final
+# Restaurant-Trends
 
-The study aims to compare the profitability levels and prospects of opening a new restaurant across developed city London and a developing city Visakhapatnam to determine the profitability of opening a restaurant in relation to the demographic sample and available data on similarities and differences in business environments and dynamics innately built into the ratings and cuisines available.  
+The study aims to compare the restaurant trends across developed cities New Yprk, Tokyo, London, Shanghai. Paris and Singapore and Indian, French, Japanese, Spanish, Chinese and Italian cuisines to determine the relation between the demographic sample and available data and cuisines available.  
